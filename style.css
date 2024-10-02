@@ -1,2 +1,4 @@
-h1 { color: blue; }
-body { background: #fed; }
+* { box-sizing: border-box; }
+body { background: #fafafa; }
+h1 { color: green; }
+
